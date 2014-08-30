@@ -1,0 +1,13 @@
+[{
+    "code": "ABC",
+    "type": "percentage",
+    "amount": 20.0
+}, {
+    "code": "GHI",
+    "type": "fixed",
+    "amount": 15.0
+}, {
+    "code": "XYZ",
+    "type": "percentage",
+    "amount": 5.0
+}]
